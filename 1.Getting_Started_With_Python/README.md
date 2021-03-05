@@ -40,7 +40,7 @@
 - [Reasons to Learn Python](https://data-flair.training/blogs/why-learn-python/)
 
 - [Future of Python](https://data-flair.training/blogs/python-future/)
-- 
+
 
 ### 1.6.Benefits and Limitations of Python
 
