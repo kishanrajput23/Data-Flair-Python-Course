@@ -4,7 +4,7 @@
 
 ### 0. Course Curriculum
 
-[Click Here](https://github.com/kishanrajput23/Data-Flair-Python-Course/blob/main/0.Course_Curriculum/Certified-Python-Course-Curriculum-03.pdf)
+- [Click Here](https://github.com/kishanrajput23/Data-Flair-Python-Course/blob/main/0.Course_Curriculum/Certified-Python-Course-Curriculum-03.pdf)
 
 ### 1. Getting Started With Python
 
